@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportInFirstFrame="false" name="Sprites/Sprite 18">
+  <timeline>
+    <DOMTimeline name="Sprite 18">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="Images/Image 16" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" />
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!16000 8000|0 8000" />
+                    <Edge fillStyle1="1" edges="!0 8000|0 0" />
+                    <Edge fillStyle1="1" edges="!0 0|16000 0" />
+                    <Edge fillStyle1="1" edges="!16000 0|16000 8000" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,1275 @@
+<style>
+/*ONE STYLESHEET TO RULE THEM ALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL*/
+a:link {color:#000000;}
+
+a:visited {color:#000000;}
+
+a:hover {color:#9a9a9a;}
+
+a:active {color:#000000;}
+
+#promo {
+	padding: 0px 20px;
+	position: relative;
+	max-width: 939px;
+	width: 80%;
+	height: auto;
+	z-index: 20;
+	text-align: left;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
+	color: #000;
+	background-color: #E9EAE3;
+	overflow: hidden;
+	top: 30px;
+	margin: 0 auto 20px;
+	text-align: center;
+	color: #B52727;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	background-color: #1246B4;
+	background-image: url("http://www.nuswimmingclub.neu.edu/Core%20Images/Underwater%20Background_test_2.jpg");
+	background-position: center center;
+	background-size: cover;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.MenuDiv1 {
+	margin: 30px auto 0px auto;
+	position: relative;
+	width: 969px;
+	height: 175px;
+	z-index: 100;
+	overflow: visible;
+	visibility: visible;
+	background: transparent url("http://www.nuswimmingclub.neu.edu/Core%20Images/banner2.png") no-repeat left center;
+	background-size: 100% auto;
+}
+.MenuDiv1 a.map {
+	position: absolute;
+	top: 0px;
+	left: 3%;
+	width: 18%;
+	height: 100%;
+}
+#contact_form {
+	padding: 10px 10px 5px 10px;
+	border-radius: 7px;
+	background-color: transparent;
+}
+input {
+	height: 15px;
+	padding: 3px;
+	font-size: 13px;
+}
+
+textarea {
+	height: 80px;
+	width: 241px;
+	padding: 3px;
+}
+
+#MediaDiv1 {
+	height: 0px;
+	position: absolute;
+	left: 76%;
+	top: 50px;
+}
+#BodyDiv1 {
+	padding: 5px;
+	position: relative;
+	max-width: 969px;
+	width: 80%;
+	height: auto;
+	z-index: 20;
+	text-align: left;
+	font-family: Helvetica, Gadget, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #E9EAE3;
+	overflow: hidden;
+	top: 30px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	
+
+	-webkit-animation: fadein 0.8s; /* Safari, Chrome and Opera > 12.1 */
+	-moz-animation: fadein 0.8s; /* Firefox < 16 */
+	-ms-animation: fadein 0.8s; /* Internet Explorer */
+	-o-animation: fadein 0.8s; /* Opera < 12.1 */
+    animation: fadein 0.8s;
+}
+.fade_in {
+	-webkit-animation: fadein 0.8s; /* Safari, Chrome and Opera > 12.1 */
+	-moz-animation: fadein 0.8s; /* Firefox < 16 */
+	-ms-animation: fadein 0.8s; /* Internet Explorer */
+	-o-animation: fadein 0.8s; /* Opera < 12.1 */
+    animation: fadein 0.8s;
+}
+
+@keyframes fadein {
+    from { opacity: 0.3; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0.3; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0.3; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0.3; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0.3; }
+    to   { opacity: 1; }
+}
+
+#BodyDiv1 table {
+	width: 969px;
+}
+#FooterDiv1 {
+	top: 95px;
+	position: relative;
+	width: 969px;
+	height: 100px;
+	z-index: -11;
+	font-size: 12px;
+	color: #CCC;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	clear: both;
+}
+div.swimmer_page_container div.swimmer_bio p {
+	margin: 5px;
+}
+p.darkblue{
+	color: #1B51C3;
+	margin: 5px;
+}
+
+td.donate {
+	text-align: center;
+	width: 100%;
+}
+
+#div1 {
+	margin: 0px;
+	width: 78%;
+	position: relative;
+	left: 22%;
+	top: 35%;
+	font-size: large;
+}
+#div1 ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#div1 ul li {
+	float: left;
+	position: relative;
+}
+#div1 ul li a {
+	display: block;
+	height: 60px;
+	width: 130px;
+	color: #000;
+	text-decoration: none;
+	line-height: 55px;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	cursor: default;
+}
+#div1 ul li ul li a {
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	cursor: pointer;
+}
+#div1 ul li:hover ul {
+	visibility: visible;
+	background-color: #DDDED3;
+	position: absolute;
+	top: 60px;
+	overflow: visible;
+}
+#div1 ul li ul {
+	position: absolute;
+	top: 50px;
+	visibility: hidden;
+	font-size: 24px;
+}
+#div1 ul li a:hover {
+	background-color: #CCC;
+	color: #000;
+	font-size: 16px;
+	overflow: visible;
+}
+.header div .White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.header div .White {
+	color: #FFF;
+}
+.white {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.white1 {
+	color: #FFF;
+}
+.White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.White div {
+	color: #FFF;
+}
+.white tr td {
+	color: #FFF;
+}
+.black {
+	color: #0000000;
+}
+.white tr td {
+	color: #FFF;
+}
+.white tr td div a {
+	color: #FFF;
+}
+.white tr td p a {
+	color: #FFF;
+}
+.dred {
+	color: #c10000;
+
+}
+.Font {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.GoNU {
+	position: relative;
+	left: 6% !important;
+	width: 10% !important;
+	height: auto;
+}
+.CampusRecreation {
+	position: relative;
+	left: 31% !important;
+	width: 21% !important;
+	height: auto;
+}
+.ECC {
+	position: relative;
+	left: 50% !important;
+	width: 10% !important;
+	height: auto;
+}
+
+#max {
+	text-decoration: none;
+	color: white;
+}
+#max:hover {
+	cursor: text;
+}
+tr:nth-child(odd) {
+	background-color: #B9D8F0;
+}
+#contact_form tr:nth-child(odd) {
+	background-color: transparent;
+}
+.dark_blue {
+	background-color: #4F9DE8;
+}
+
+
+p.footer_text {
+	text-align: center;
+	margin-bottom: 10px;
+}
+p.footer_text font {
+	font-size: 15px;
+}
+
+
+iframe.facebook {
+	border:none;
+	overflow:hidden;
+	width: 100%;
+	height:430px;
+	border-width:0px;
+	background: white;
+	float:left;
+	border-radius:5px;
+}
+
+img.slideshow_img {
+	width: 100% !important;
+	height: auto !important;
+}
+
+a.twitter_timeline {
+	width: 323px;
+	height: 430px;
+	margin: 5px;
+}
+
+#twitter-widget-0 {
+	width: 100% !important;
+}
+.twitter-timeline-rendered { 
+  width: 100% !important; 
+  max-width: 100% !important;
+}
+
+
+/* replacing tables with row divs (big project)*/
+
+div.row.donate {
+	text-align: center;
+	background-color: #E9EAE3;
+	clear: both;
+}
+
+/*EBOARD*/
+
+div.row.eboard {
+	background-color: #B9D8F0;
+}
+div.row.title_row {
+	background-color: #4F9DE8;
+	text-align: center;
+	margin-bottom: 5px;
+	padding: 10px;
+}
+div.row.title_row h2 {
+	margin: 0px;
+}
+div.row.subheading {
+	text-align: center;
+	padding: 10px;
+	clear: both;
+}
+div.eboard_member {
+	padding: 10px 0px;
+	width: 20%;
+	float: left;
+	background-color: #B9D8F0;
+}
+div.eboard_member img{
+	width: 150px;
+	height: 224px;
+}
+
+/*COACHES*/
+
+
+div.coach {
+	padding: 10px 0px;
+	width: 50%;
+	float: left;
+	text-align: center;
+	background-color: #B9D8F0;
+}
+
+div.coach img {
+	width: 90%;
+	height: auto;
+}
+div.coach .coach_name {
+	margin-top: 30px;
+}
+
+/*ROSTERS*/
+
+
+div.roster_container .column_headings {
+	background-color: #4F9DE8;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 20px;
+	padding: 5px 0px;
+}
+div.roster_container .title_row {
+	margin-bottom: 0px;
+}
+div.row.column_headings div {
+	float: left;
+	text-align: center;
+	height: 20px;
+}
+div.row.column_headings div p{
+	margin-top: 0px
+}
+
+
+div.row.swimmer:nth-child(odd) {
+	clear: both;
+	background-color: #B9D8F0;
+}
+div.row.swimmer:nth-child(odd) div {
+	background-color: #B9D8F0;
+}
+div.row.swimmer .pic,
+div.row.column_headings .pic {
+	width: 10.5%;
+}
+div.row.swimmer .pic img {
+	width: 100%;
+	height: auto;
+}
+div.row.swimmer .name,
+div.row.column_headings .name {
+	width: 14.8%;
+}
+div.row.swimmer .year,
+div.row.column_headings .year {
+	width: 11.1%;
+}
+div.row.swimmer .stroke,
+div.row.column_headings .stroke {
+	width: 19.2%;
+}
+div.row.swimmer .high_school,
+div.row.column_headings .high_school {
+	width: 25.2%;
+}
+div.row.swimmer .hometown,
+div.row.column_headings .hometown {
+	width: 19.2%;
+}
+div.row.swimmer div {
+	float: left;
+	text-align: center;
+	height: 153px;
+}
+div.row.swimmer div p {
+	margin-top: 75px;
+}
+div.row.swimmer div p.header {
+	display: none;
+}
+
+img.social_imgs {
+	width: 70%;
+	height: auto; 
+}
+
+
+
+
+/*personal swimmer page styling*/
+div.swimmer_page_container img.swimmer_pic {
+	width: 100%;
+	height: auto; 
+}
+div.swimmer_info_row div {
+	padding-left: 1%;
+}
+div.swimmer_page_container div.row.title_row {
+	margin-bottom: 0px;
+}
+div.swimmer_page_container div.column_headings {
+	background-color: #B9D8F0;
+	margin-bottom: 5px;
+	text-align: center;
+}
+div.swimmer_page_container div.column_headings small {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+div.swimmer_page_container div.swimmer_pic_container {
+	width: 31%;
+	height: 100% !important;
+	padding-left: 0px;
+	padding-top: 0px !important;
+}
+div.swimmer_page_container div.swimmer_name,
+div.swimmer_page_container div.swimmer_stroke,
+div.swimmer_page_container div.swimmer_height,
+div.swimmer_page_container div.swimmer_year,
+div.swimmer_page_container div.swimmer_hs,
+div.swimmer_page_container div.swimmer_hometown {
+	width: 68%;
+}
+div.swimmer_page_container div.swimmer_bio {
+	width: 100%;
+	padding: 5px 0;
+	clear: both;
+}
+
+div.season_header {
+	text-align: center;
+	padding-top: 5px;
+}
+div.swimmer_page_container div.row.dark_blue.column_headings {
+	height: 20px;
+	margin-bottom: 0px;
+	background-color: #4F9DE8;
+	padding-top: 5px;
+}
+div.row.column_headings div {
+	background-color: #4F9DE8;
+}
+div.swimmer_page_container div.event {
+	width: 16%;
+	overflow: hidden;
+}
+div.swimmer_page_container div.time {
+	width: 14.4%;
+	overflow: hidden;
+}
+div.swimmer_page_container div.meet {
+	width: 26%;
+	overflow: hidden;
+}
+div.swimmer_page_container div.venue {
+	width: 22.5%;
+	overflow: hidden;
+}
+div.swimmer_page_container div.place {
+	width: 5.8%;
+	overflow: hidden;
+}
+div.swimmer_page_container div.date {
+	width: 15.3%;
+	overflow: hidden;
+}
+div.row.key {
+	margin-bottom: 5px;
+	font-size: 14px;
+	height: 19px;
+}
+div.row.key div {
+	float: left;
+	padding: 3px 0;
+	width: calc(100% / 3);
+	background-color: #B9D8F0;
+	text-align: center;
+}
+
+
+div.swimmer_page_container div.swimmer_info_row div {
+	float: left;
+}
+div.swimmer_page_container div.swimmer_info_row div:nth-child(odd) {
+	background-color: #B9D8F0;
+}
+
+
+div.swimmer_page_container .row.best_time div {
+	float: left;
+	height: 17px;
+	padding-top: 1px;
+}
+div.swimmer_page_container .row.best_time {
+	height: 18px;
+}
+div.swimmer_page_container .row.best_time:nth-child(odd) div {
+	background-color: #B9D8F0;
+}
+div.swimmer_page_container .row.best_time:nth-child(even) div {
+	background-color: #E9EAE3;
+}
+span.show_ms {
+	display: none;
+	font-weight: bold;
+	margin-right: 10px;
+}
+div.no_times {
+	width: 100%;
+}
+
+span.qualified {
+	color: #00CE00 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*FUCK YOUUU FACEBOOKK*/
+
+div.fb_container {
+	width: calc(50% - 10px);
+	padding: 5px;
+	background-color: #E9EAE3;
+	float: left;
+	margin-bottom: 15px;
+}
+
+div.twitter_container {
+	width: calc(50% - 10px);
+	padding: 5px;
+	background-color: #E9EAE3;
+	float: left;
+	margin-bottom: 15px;
+}
+div.fb-page.fb_iframe_widget,
+#twitter-widget-0 {
+	box-shadow: 0px 1px 10px rgba(0,0,0,0.25);
+}
+div.fb-page.fb_iframe_widget,
+div.fb-page.fb_iframe_widget span:nth-child(1),
+div.fb-page.fb_iframe_widget iframe,
+div#u_0_0 div {
+	max-width: 100%;
+}
+
+
+
+
+/* col-md */
+@media (max-width:1199px) {
+}
+@media (min-width:992px) {
+}
+@media (min-width:992px) and (max-width:1199px) {
+	.MenuDiv1 {
+		margin: 0px auto 0px auto;
+		width: 900px;
+		height: 155px;
+		background-size: 900px 155px;
+	}
+	#div1 {
+		top: 37%;
+	}
+	#div1 ul li a {
+		height: 48px;
+		width: 125px;
+		line-height: 45px;
+	}
+	#div1 ul li:hover ul {
+		top: 48px;
+	}
+	#BodyDiv1 {
+		width: 900px;
+		top: 30px;
+	}
+	#BodyDiv1 table {
+		width: 900px;
+	}
+	#BodyDiv1 p.calendar {
+		max-width: 900px;
+	}
+	#BodyDiv1 p.calendar iframe {
+		max-width: 890px !important;
+	}
+	#FooterDiv1 {
+		top: 95px;
+		width: 900px;
+		height: 100px;
+		font-size: 12px;
+	}
+	div.fb_container {
+		width: calc(50% - 10px);
+		margin-bottom: 15px;
+	}
+	
+	div.twitter_container {
+		width: calc(50% - 10px);
+		margin-bottom: 15px;
+	}
+	.GoNU {
+		left: 30px;
+		width: 90px;
+	}
+	.CampusRecreation {
+		left: 260px;
+		width: 190px;
+	}
+	.ECC {
+		left: 470px;
+		width: 90px;
+	}
+	p.footer_text font {
+		font-size: 14px;
+	}
+	div.eboard_member {
+		padding: 10px 0px;
+		width: 20%;
+	}
+	div.eboard_member img{
+		width: 140px;
+		height: 209px;
+	}
+	div.row.swimmer div {
+		height: 142px;
+	}
+	div.row.swimmer div p{
+		margin-top: 66px
+	}
+}
+
+/* col-sm */
+@media (max-width:991px) {
+}
+@media (min-width:768px) {
+}
+@media (min-width:768px) and (max-width:991px) {
+	.MenuDiv1 {
+		margin: 25px auto 0px auto;
+		width: 730px;
+		height: 124px;
+		background-size: 730px 124px;
+	}
+	#div1 {
+		top: 37%;
+	}
+	#div1 ul li a {
+		height: 39px;
+		width: 100px;
+		line-height: 39px;
+		font-size: 14px;
+	}
+	#div1 ul li a:hover {
+		font-size: 14px;
+	}
+	#div1 ul li:hover ul {
+		top: 39px;
+		font-size: 14px;
+	}
+	#BodyDiv1 {
+		width: 750px;
+		top: 30px;
+	}
+	#BodyDiv1 table {
+		width: 750px;
+	}
+	#BodyDiv1 p.calendar {
+		max-width: 750px;
+	}
+	#BodyDiv1 p.calendar iframe {
+		max-width: 740px !important;
+	}
+	#FooterDiv1 {
+		top: 95px;
+		width: 750px;
+		height: 100px;
+	}
+	div.fb_container {
+		width: calc(60% - 20px);
+		margin-bottom: 15px;
+	}
+	
+	div.twitter_container {
+		width: calc(40% - 10px);
+		margin-bottom: 15px;
+	}
+	.GoNU {
+		left: 30px;
+		width: 75px;
+	}
+	.CampusRecreation {
+		left: 230px;
+		width: 158px;
+	}
+	.ECC {
+		left: 410px;
+		width: 75px;
+	}
+	p.footer_text font {
+		font-size: 12px;
+	}
+	div.eboard_member {
+		padding: 10px 0px;
+		width: 20%;
+	}
+	div.eboard_member img{
+		width: 100px;
+		height: 149px;
+	}
+	div.row.swimmer div {
+		height: 115px;
+	}
+	div.row.swimmer div p{
+		margin-top: 53px;
+		font-size: 12px;
+	}
+	div.swimmer_page_container .row.best_time div {
+		font-size: 13px;
+	}
+}
+
+/* col-ms */
+@media (max-width:767px) {
+}
+@media (min-width:650px) {
+}
+@media (min-width:650px) and (max-width:767px) {
+	.MenuDiv1 {
+		margin: 25px auto 0px auto;
+		width: 620px;
+		height: 105px;
+		background-size: 620px 105px;
+	}
+	#div1 {
+		top: 37%;
+	}
+	#div1 ul li a {
+		height: 33px;
+		width: 85px;
+		line-height: 34px;
+		font-size: 12px;
+	}
+	#div1 ul li a:hover {
+		font-size: 12px;
+	}
+	#div1 ul li:hover ul {
+		top: 33px;
+		font-size: 12px;
+	}
+	#BodyDiv1 {
+		width: 620px;
+		top: 30px;
+	}
+	#BodyDiv1 table {
+		width: 620px;
+	}
+	#BodyDiv1 p.calendar {
+		max-width: 620px;
+	}
+	#BodyDiv1 p.calendar iframe {
+		max-width: 620px !important;
+	}
+	#FooterDiv1 {
+		top: 95px;
+		width: 620px;
+		height: 100px;
+	}
+	div.fb_container {
+		width: calc(100% - 10px);
+		margin-bottom: 5px;
+	}
+	div.twitter_container {
+		width: calc(100% - 10px);
+		margin-bottom: 15px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#twitter-widget-0 {
+		width: 522px !important;
+	}
+	.GoNU {
+		left: 30px;
+		width: 75px;
+	}
+	.CampusRecreation {
+		left: 164px;
+		width: 158px;
+	}
+	.ECC {
+		left: 285px;
+		width: 75px;
+	}
+	p.footer_text font {
+		font-size: 12px;
+	}
+	div.eboard_member {
+		padding: 10px 0px;
+		width: calc(100%/3);
+	}
+	div.eboard_member.first2 {
+		width: 50%;
+	}
+	div.eboard_member img{
+		width: 140px;
+		height: 209px;
+	}
+	/*here goes*/
+	div.row.swimmer div p {
+		margin-top: 0px;
+	}
+	div.row.swimmer div p.header {
+		margin-top: 30px;
+	}
+	div.row.swimmer div p.header {
+		display: block;
+	}
+	div.row.swimmer .pic,
+	div.row.column_headings .pic {
+		width: 20%;
+	}
+	div.row.swimmer .name,
+	div.row.column_headings .name {
+		width: calc(80% / 3);
+	}
+	div.row.swimmer .year,
+	div.row.column_headings .year {
+		width: calc(80% / 3);
+	}
+	div.row.swimmer .stroke,
+	div.row.column_headings .stroke {
+		width: calc(80% / 3);
+	}
+	div.row.swimmer .high_school,
+	div.row.column_headings .high_school {
+		width: calc(80% / 2);
+	}
+	div.row.swimmer .hometown,
+	div.row.column_headings .hometown {
+		width: calc(80% / 2);
+	}
+	div.row.swimmer div {
+		height: calc(187px / 2);
+	}
+	div.row.swimmer div.pic {
+		height: 187px;
+	}
+	div.roster_container .row.column_headings {
+		display: none;
+	}
+	div.swimmer_page_container .row.best_time {
+		height: 36px;
+	}
+	div.swimmer_page_container .row.best_time div {
+		height: 34px;
+		padding-top: 2px;
+		text-align: center;
+	}
+}
+
+
+/* col-mss */
+@media (max-width:649px) {
+	.MenuDiv1 {
+		margin: 25px auto 0px auto;
+		width: 90%;
+		height: 105px;
+		background-size: 100% auto;
+	}
+	#div1 ul li a {
+		height: 34px;
+		width: 75px;
+		line-height: 25px;
+		font-size: 9px;
+	}
+	#div1 ul li a:hover {
+		font-size: 9px;
+	}
+	#div1 ul li:hover ul {
+		top: 33px;
+		font-size: 9px;
+	}
+	body {
+		background-image: none;
+	}
+	div.swimmer_page_container img.swimmer_pic {
+		width: 70%;
+		padding: 0 15%;
+	}
+	div.swimmer_page_container div.swimmer_pic_container {
+		width: 100%;
+	}
+	div.swimmer_info_row div {
+		padding-left: 0;
+	}
+	div.swimmer_page_container div.swimmer_name,
+	div.swimmer_page_container div.swimmer_stroke,
+	div.swimmer_page_container div.swimmer_height,
+	div.swimmer_page_container div.swimmer_year,
+	div.swimmer_page_container div.swimmer_hs,
+	div.swimmer_page_container div.swimmer_hometown {
+		width: 100%;
+	}
+	div.swimmer_page_container .row.best_time div {
+		width: 50%;
+		height: 25px;
+		padding-top: 15px;
+	}
+	div.swimmer_page_container .row.best_time div.event {
+		height: 45px;
+		padding-top: 35px;
+		font-weight: bold;
+	}
+	div.swimmer_page_container .row.best_time {
+		height: 72px;
+	}
+	div.swimmer_page_container div.row.dark_blue.column_headings,
+	div.swimmer_page_container div.meet,
+	div.swimmer_page_container div.venue,
+	div.swimmer_page_container div.place {
+		display: none;
+	}
+}
+@media (min-width:481px) {
+}
+@media (min-width:481px) and (max-width:649px) {
+	#BodyDiv1 {
+		width: 80%;
+		top: 30px;
+	}
+	#BodyDiv1 table {
+		width: 470px;
+	}
+	#BodyDiv1 p.calendar,
+	#BodyDiv1 p.calendar iframe {
+		max-width: 470px !important;
+	}
+	#FooterDiv1 {
+		top: 95px;
+		width: 470px;
+		height: 100px;
+	}
+	div.fb_container {
+		width: calc(100% - 10px);
+		margin-bottom: 5px;
+	}
+	div.twitter_container {
+		width: calc(100% - 10px);
+		margin-bottom: 15px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#twitter-widget-0 {
+		width: 460px !important;
+	}
+	.GoNU {
+		left: 30px;
+		width: 75px;
+	}
+	.CampusRecreation {
+		left: 164px;
+		width: 158px;
+	}
+	.ECC {
+		left: 285px;
+		width: 75px;
+	}
+	p.footer_text font {
+		font-size: 11px;
+	}
+	div.eboard_member,
+	div.eboard_member.first2 {
+		padding: 10px 0px;
+		width: calc(100%/2);
+	}
+	div.eboard_member.first1 {
+		width: 100%;
+	}
+	div.eboard_member img{
+		width: 140px;
+		height: 209px;
+	}
+	div.row.donate h2 {
+		font-size: 18px;
+	}
+	div.coach {
+		width: 100%;
+	}
+	/*here goes*/
+	div.row.swimmer div p {
+		margin-top: 0px;
+	}
+	div.row.swimmer div p.header {
+		margin-top: 12px;
+		margin-bottom: 9px;
+	}
+	div.row.swimmer div p.header {
+		display: block;
+	}
+	div.row.swimmer .pic,
+	div.row.column_headings .pic {
+		width: 50%;
+	}
+	div.row.swimmer .name,
+	div.row.column_headings .name {
+		width: 50%;
+	}
+	div.row.swimmer .year,
+	div.row.column_headings .year {
+		width: 50%;
+	}
+	div.row.swimmer .stroke,
+	div.row.column_headings .stroke {
+		width: 50%;
+	}
+	div.row.swimmer .high_school,
+	div.row.column_headings .high_school {
+		width: 50%;
+	}
+	div.row.swimmer .hometown,
+	div.row.column_headings .hometown {
+		width: 50%;
+	}
+	div.row.swimmer div {
+		height: calc(349px / 5);
+		font-size: 13px;
+	}
+	div.row.swimmer div.pic {
+		height: 349px;
+	}
+	div.roster_container .row.column_headings {
+		display: none;
+	}
+	span.show_ms {
+		display: inline-block;
+	}
+}
+
+
+
+
+/* col-mss */
+@media (max-width:480px) {
+	#BodyDiv1 {
+		width: 80%;
+		top: 30px;
+	}
+	#BodyDiv1 table {
+		width: 470px;
+	}
+	#BodyDiv1 p.calendar,
+	#BodyDiv1 p.calendar iframe {
+		max-width: 470px !important;
+	}
+	#FooterDiv1 {
+		top: 95px;
+		width: 80%;
+		height: 100px;
+	}
+	div.fb_container {
+		width: calc(100% - 10px);
+		margin-bottom: 5px;
+	}
+	div.twitter_container {
+		width: calc(100% - 10px);
+		margin-bottom: 15px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#twitter-widget-0 {
+		width: 460px !important;
+	}
+	.GoNU {
+		left: 30px;
+		width: 75px;
+	}
+	.CampusRecreation {
+		left: 164px;
+		width: 158px;
+	}
+	.ECC {
+		left: 285px;
+		width: 75px;
+	}
+	p.footer_text font {
+		font-size: 10px;
+	}
+	div.eboard_member,
+	div.eboard_member.first2,
+	div.eboard_member.first1 {
+		width: 100%;
+	}
+	div.eboard_member img{
+		width: 170px;
+		height: auto;
+	}
+	div.row.donate h2 {
+		font-size: 18px;
+	}
+	div.coach {
+		width: 100%;
+	}
+	/*here goes*/
+	div.row.swimmer div p {
+		margin-top: 0px;
+	}
+	div.row.swimmer div p.header {
+		margin-top: 10px;
+		margin-bottom: 7px;
+	}
+	div.row.swimmer div p.header {
+		display: block;
+	}
+	div.row.swimmer .pic,
+	div.row.column_headings .pic {
+		width: 50%;
+	}
+	div.row.swimmer .name,
+	div.row.column_headings .name {
+		width: 50%;
+	}
+	div.row.swimmer .year,
+	div.row.column_headings .year {
+		width: 50%;
+	}
+	div.row.swimmer .stroke,
+	div.row.column_headings .stroke {
+		width: 50%;
+	}
+	div.row.swimmer .high_school,
+	div.row.column_headings .high_school {
+		width: 50%;
+	}
+	div.row.swimmer .hometown,
+	div.row.column_headings .hometown {
+		width: 50%;
+	}
+	div.row.swimmer div {
+		height: calc(349px / 5);
+		font-size: 9px;
+	}
+	div.row.swimmer div.pic {
+		height: 349px;
+	}
+	div.roster_container .row.column_headings {
+		display: none;
+	}
+	div.row.donate h2 {
+		font-size: 18px;
+	}
+	div.row.subheading {
+		background-color: #4F9DE8;
+	}
+	div.swimmer_page_container div.swimmer_name,
+	div.swimmer_page_container div.swimmer_stroke,
+	div.swimmer_page_container div.swimmer_height,
+	div.swimmer_page_container div.swimmer_year,
+	div.swimmer_page_container div.swimmer_hs,
+	div.swimmer_page_container div.swimmer_hometown,
+	div.swimmer_page_container div.swimmer_bio {
+		text-align: center;
+	}
+	div.row.key {
+		font-size: 12px;
+	}
+}
+</style>

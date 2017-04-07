@@ -1,0 +1,236 @@
+<style>
+
+a:link {color:#000000;}
+
+a:visited {color:#000000;}
+
+a:hover {color:#9a9a9a;}
+
+a:active {color:#000000;}
+
+.MenuDiv1 {
+	margin: 30px auto 0px auto;
+	position: relative;
+	width: 969px;
+	height: 175px;
+	z-index: 100;
+	overflow: visible;
+	visibility: visible;
+	background: transparent url("../../../Core%20Images/banner2.png") no-repeat center center;
+	background-size: 969px 175px;
+}
+.MenuDiv1 a.map {
+	position: absolute;
+	top: 0px;
+	left: 28px;
+	width: 18%;
+	height: 100%;
+}
+#MediaDiv1 {
+	height: 0px;
+	width: 0px;
+	position: absolute;
+	left: 585px;
+}
+#BodyDiv1 {
+	padding: 5px;
+	position: relative;
+	width: 969px;
+	height: auto;
+	z-index: 20;
+	text-align: left;
+	font-family: Helvetica, Gadget, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #E9EAE3;
+	overflow: hidden;
+	top: 30px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#FooterDiv1 {
+	top: 95px;
+	position: relative;
+	width: 969px;
+	height: 100px;
+	z-index: -11;
+	font-size: 12px;
+	color: #CCC;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	clear: both;
+}
+p.margin {
+	margin: 5px;
+}
+p.darkblue{
+	color: #1B51C3;
+	margin: 5px;
+}
+
+td.donate {
+	text-align: center;
+	width: 100%;
+}
+
+#div1 {
+	background-color: #000000;
+	margin: 20px;
+	width: 800px;
+	position: relative;
+	left: 200px;
+	top: 69px;
+	font-size: large;
+}
+#div1 ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#div1 ul li {
+	float: left;
+	position: relative;
+}
+#div1 ul li a {
+	display: block;
+	height: 55px !important;
+	width: 130px !important;
+	color: #000;
+	text-decoration: none;
+	line-height: 50px;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}
+#div1 ul li ul li a {
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-right-width: 0px;
+	border-left-width: 0px;
+}
+#div1 ul li:hover ul {
+	visibility: visible;
+	background-color: #DDDED3;
+	position: absolute;
+	top: 55px !important;
+	overflow: visible;
+}
+#div1 ul li ul {
+	position: absolute;
+	top: 50px;
+	visibility: hidden;
+	font-size: 24px;
+}
+#div1 ul li a:hover {
+	background-color: #CCC;
+	color: #000;
+	font-size: 16px;
+	overflow: visible;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	background-color: #000000;
+	background-image: url(../../../Core%20Images/Underwater%20Background_test_2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	max-width: 100%;
+	max-height: 100%;
+}
+.header div .White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.header div .White {
+	color: #FFF;
+}
+.white {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.white1 {
+	color: #FFF;
+}
+.White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.White div {
+	color: #FFF;
+}
+.white tr td {
+	color: #FFF;
+}
+.black {
+	color: #0000000;
+}
+.white tr td {
+	color: #FFF;
+}
+.white tr td div a {
+	color: #FFF;
+}
+.white tr td p a {
+	color: #FFF;
+}
+.dred {
+	color: #c10000;
+
+}
+.Font {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.testfont {
+	color: #FFFF00;
+}
+.GoNU {
+	position: relative;
+	left: 60px;
+	width: 95px;
+	height: 120px;
+}
+.CampusRecreation {
+	position: relative;
+	left: 290px;
+	width: 200px;
+	height: 120px;
+}
+.ECC {
+	position: relative;
+	left: 500px;
+	width: 95px;
+	height: 120px;
+}
+
+tr:nth-child(odd) {
+	background-color: #B9D8F0;
+}
+
+.dark_blue {
+	background-color: #4F9DE8;
+}
+#max {
+	text-decoration: none;
+	color: white;
+}
+#max:hover {
+	cursor: text;
+}
+p.footer_text {
+	text-align: center;
+}
+
+p.footer_text font {
+	font-size: 16px;
+}
+
+</style>

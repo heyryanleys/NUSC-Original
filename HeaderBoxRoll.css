@@ -1,0 +1,29 @@
+a:hover {
+	background-color: #000;
+	color: #F00;
+}
+a:hover {
+	color: #F00;
+	text-decoration: underline;
+}
+White {
+	color: #FFF;
+}
+.White {
+	color: #FFF;
+}
+.Recent div table tr .White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.Recent div table tr td div strong {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.Body {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.red {
+	color: #F00;
+}
+.red u {
+	color: #F00;
+}

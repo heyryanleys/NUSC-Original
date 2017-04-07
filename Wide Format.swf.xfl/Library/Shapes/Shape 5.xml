@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" symbolType="graphic" linkageExportInFirstFrame="false" name="Shapes/Shape 5">
+  <timeline>
+    <DOMTimeline name="Shape 5">
+      <layers>
+        <DOMLayer name="Shape sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000">
+                        <matrix>
+                          <Matrix a="20" d="20" />
+                        </matrix>
+                      </SolidColor>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <BitmapFill bitmapPath="Images/Image 4" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" ty="1.45" />
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!16000 8029|0 8029" />
+                    <Edge fillStyle1="2" edges="!0 8029|0 29" />
+                    <Edge fillStyle1="2" edges="!0 29|16000 29" />
+                    <Edge fillStyle1="2" edges="!16000 29|16000 8029" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape sublayer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#000000">
+                        <matrix>
+                          <Matrix a="20" d="20" />
+                        </matrix>
+                      </SolidColor>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <BitmapFill bitmapPath="Images/Image 4" bitmapIsClipped="true">
+                        <matrix>
+                          <Matrix a="20" d="20" tx="28.55" />
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!16571 8000|571 8000" />
+                    <Edge fillStyle1="2" edges="!571 8000|571 0" />
+                    <Edge fillStyle1="2" edges="!571 0|16571 0" />
+                    <Edge fillStyle1="2" edges="!16571 0|16571 8000" />
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

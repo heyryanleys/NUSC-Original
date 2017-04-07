@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" linkageExportInFirstFrame="false" name="Sprites/Sprite 25">
+  <timeline>
+    <DOMTimeline name="Sprite 25">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4f80ff">
+          <frames>
+            <DOMFrame index="0">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 3" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 6" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 9" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 12" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 15" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 18" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 21" />
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 24" />
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

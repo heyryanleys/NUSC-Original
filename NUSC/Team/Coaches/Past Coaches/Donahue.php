@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Salzillo Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>NUSC | April Donahue</title>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+a:link {color:#000000;}
+
+a:visited {color:#000000;}
+
+a:hover {color:#9a9a9a;}
+
+a:active {color:#000000;}
+
+#MenuDiv1 {
+	margin: 30px auto 0px auto;
+	position: relative;
+	margin-left: auto;
+	width: 900px;
+	height: 175px;
+	z-index: 100;
+	overflow: visible;
+	visibility: visible;
+	
+}
+#MediaDiv1 {
+	height: 0px;
+	width: 0px;
+	position: absolute;
+	left: 525px;
+}
+#BodyDiv1 {
+	float: left;
+	padding: 5px;
+	position: relative;
+	width: 969px;
+	height: auto;
+	z-index: -1;
+	visibility: visible;
+	text-align: left;
+	font-family: Helvetica, Gadget, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #E9EAE3;
+	overflow: hidden;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#FooterDiv1 {
+	top: 110px;
+	position: relative;
+	width: auto;
+	height: 100px;
+	z-index: -11;
+	font-size: 10px;
+	color: #CCC;
+	margin-top: auto;
+	margin-right: 300px;
+	margin-bottom: 0px;
+	margin-left: -275px;
+}
+p.margin {
+	margin: 5px;
+}
+p.darkblue{
+	color: #1B51C3;
+	margin: 5px;
+}
+</style>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<style>
+#div1 {
+	background-color: #000000;
+	margin: 20px;
+	width: 800px;
+	position: relative;
+	left: 200px;
+	top: -145px;
+	font-size: large;
+}
+#div2 {
+	margin: 20px;
+	width: 1000px;
+	position: relative;
+	left: -35px;
+	top: 12px;
+}
+#div1 ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#div1 ul li {
+	float: left;
+	position: relative;
+}
+#div1 ul li a {
+	display: block;
+	height: 55px;
+	width: 120px;
+	color: #000;
+	text-decoration: none;
+	line-height: 50px;
+	text-align: center;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-width: 0px;
+	border-bottom-style: none;
+	font-size: 36px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	border-top-style: none;
+	border-top-width: 0px;
+}
+#div1 ul li ul li a {
+	border-top-width: 0px;
+	border-bottom-width: 0px;
+	border-top-style: none;
+	border-bottom-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-right-width: 0px;
+	border-left-width: 0px;
+}
+#div1 ul li:hover ul {
+	visibility: visible;
+	background-color: #DDDED3;
+	position: absolute;
+	top: 55px;
+	overflow: visible;
+}
+#div1 ul li ul {
+	position: absolute;
+	top: 50px;
+	visibility: hidden;
+	font-size: 24px;
+}
+#div1 ul li a:hover {
+	background-color: #CCC;
+	color: #000;
+	font-size: 16px;
+	overflow: visible;
+}
+#div1 ul li a {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}
+#div1 ul li a {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: 400;
+	font-variant: normal;
+	text-decoration: none;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-attachment: fixed;
+	background-color: #000000;
+	background-image: url(../../../../Core%20Images/Underwater%20Background_test_2.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	max-width: 100%;
+	max-height: 100%;
+}
+.header div .White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.header div .White {
+	color: #FFF;
+}
+.white {
+	color: #FFF;
+}
+.White {
+	color: #FFF;
+}
+.white {
+	color: #FFF;
+}
+.white {
+	color: #FFF;
+}
+.white1 {
+	color: #FFF;
+}
+.White {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.White div {
+	color: #FFF;
+}
+.white {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.white {
+	color: #FFF;
+}
+.white tr td {
+	color: #FFF;
+}
+.black {
+	color: #0000000;
+}
+.white tr td {
+	color: #FFF;
+}
+.white tr td {
+	color: #FFF;
+}
+.white tr td div a {
+	color: #FFF;
+}
+.white tr td p a {
+	color: #FFF;
+}
+.dred {
+	color: #c10000;
+
+}
+.Font {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.testfont {
+	color: #FFFF00;
+}
+.GoNU {
+	position: relative;
+	left: 305px;
+}
+.CampusRecreation {
+	position: relative;
+	left: 555px;
+}
+.ECC {
+	position: relative;
+	left: 805px;
+}
+</style>
+<body background="../../../../Core%20Images/Underwater%20Background_test_2.jpg" onload="MM_preloadImages('../../../../Core%20Images/Go%20NU%20Logo.png','../../../../Core%20Images/Campus%20Rec%20Logo.png','../../../../Core%20Images/ECCColor.png')">
+
+<div id="MenuDiv1">
+
+<img src="../../../../Core%20Images/banner2.png" width="900" height="175" usemap="#Map" border="0" />
+<map name="Map" id="Map">
+  <area shape="rect" coords="30,7,185,169" href="../../../../index.html" alt="Home" />
+</map>
+ 
+<div id="div2">
+ 
+         <div id="div1">
+<div align="center">
+  
+  <ul>
+    <li></li>
+  </ul>
+ 
+ <ul>
+    <li><a href="">Team</a>
+      <ul>
+    <li><a href="../../Womens%20Team.html">Women's Team</a></li>
+    <li><a href="../../Mens%20Team.html">Men's Team</a></li>
+    <li><a href="../../Coaches.html">Coaches</a></li>
+        <li><a href="../../Eboard.html">E-Board</a></li>
+    </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="">Schedule</a>
+    <ul>
+    <li><a href="../../../Schedule/Practice.html">Practice</a></li>
+    <li><a href="../../../Schedule/2014-2015.html">2014-2015</a></li>
+    </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="">Records</a>
+        <ul>
+    <li><a href="../../../Records/Records.html">Team Records</a></li>
+    <li><a href="../../../Records/Top10.html">Top 10 Times</a></li>
+    <li><a href="../../../Records/Past%20Seasons.html">Past Seasons</a></li>
+    </ul>
+    </li>
+  </ul>
+      
+  <ul>
+    <li><a href="">About Us</a>
+      <ul>
+    <li><a href="../../../About%20Us/Faq.html">FAQ</a></li>
+    <li><a href="../../../About%20Us/History.html">Team History</a></li>
+    <li><a href="../../../About%20Us/Constitution.html">Constitution</a></li>
+    <li><a href="../../../About%20Us/Forms.html">Forms</a></li>
+    </ul>
+    </li>
+  </ul>
+  
+  <ul>
+    <li><a href="../../../Contact%20Us/Contactus.html">Contact Us</a>
+  </ul>
+  
+  <div id="MediaDiv1">
+    
+  </br>
+  </br>
+  </br>
+  
+  <img src="../../../../Core%20Images/social_media_icons.png" width="129" height="39" usemap="#Map2" border="0" />
+  <map name="Map2" id="Map2">
+    <area shape="circle" coords="64,19,19" href="http://www.twitter.com/NUSwimClub" alt="Twitter" />
+        <area shape="circle" coords="108,19,19" href="http://www.instagram.com/NUSwimClub" alt="Instagram" />
+            <area shape="circle" coords="20,19,19" href="http://www.facebook.com/NUSwimmingClub" alt="Facebook" />
+  </map>
+  </div>
+  
+</div>
+</div>
+         <div id="BodyDiv1"><table width="969" height="automatic" style="border-collapse: collapse;” border="0">
+  <tr>
+    <td height="37" colspan="3" bgcolor="#4F9DE8"><div align="center"><b><big><big>Northeastern University Swim Club</big></big></b></div></td>
+    </tr>
+  <tr>
+    <td width="202" colspan="1" rowspan="3"><!-- InstanceBeginEditable name="Picture" -->
+      <div align="center"><img src="../../../../Core Images/April Donahue.jpg" width="300" height="376" alt="April Donahue" /></div>
+    <!-- InstanceEndEditable --></td>
+    <td width="755" height="37" bgcolor="#B9D8F0"><big><big><b><!-- InstanceBeginEditable name="Name" -->April Donahue<!-- InstanceEndEditable --></b></big></big></td>
+  </tr>
+  <tr>
+    <td bgcolor="#B9D8F0" height="37"><!-- InstanceBeginEditable name="Stroke" --><em>Former Women's Head Coach</em><!-- InstanceEndEditable --></td>
+  </tr>
+  <tr>
+    <td bgcolor="#E9EAE3"><!-- InstanceBeginEditable name="Personal Biography" -->
+    <p> April graduated from Northeastern University in 2008 with a degree in Nursing. Shortly thereafter, she was named the head coach of the NU Women's Swim Club in 2009 and held the position until she resigned 4 years later. Uner her tenure, NU Swim Club saw vast improvements. Her technical expertise went hand-in-hand with club member's dedication to improving as swimmers. Under April's leadership, NUSC was able to becoming more and more competitive at ECC Nationals. In fact, the team saw its first top-10 berth during April's final year as head women's coach.</p>
+    <p>April's successful leadership doesn't end with her coaching career. She also served as the club's president from 2007-2009. As a swimmer, she still holds records in the 50, 100, and 200 breaststrokes. Under her leadership, NUSC was able to become a powerhouse at ASAU Championships.</p>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+  </table>
+</div>
+<div id="FooterDiv1">
+
+<a href="http://www.gonu.com"><img src="../../../../Core%20Images/Go%20NU%20Logo%20Grey.png" alt="Go NU" name="Image1" width="95" height="120" class="GoNU" id="Image1" onmouseover="MM_swapImage('Image1','','../../../../Core%20Images/Go%20NU%20Logo.png',1)" onmouseout="MM_swapImgRestore()" border="0" /></a><a href="http://www.campusrec.neu.edu"><img src="../../../../Core%20Images/Campus%20Rec%20Logo%20Grey%202.png" alt="Campus Rec" width="200" height="120" class="CampusRecreation" id="Image2" onmouseover="MM_swapImage('Image2','','../../../../Core%20Images/Campus%20Rec%20Logo.png',1)" onmouseout="MM_swapImgRestore()" border="0" /></a><a href="http://swimclub.gtorg.gatech.edu/?page_id=54"><img src="../../../../Core%20Images/ECCGrey.png" alt="ECC" width="95" height="120" class="ECC" id="Image3" onmouseover="MM_swapImage('Image3','','../../../../Core%20Images/ECCColor.png',1)" onmouseout="MM_swapImgRestore()" border="0" /></a>
+<p>&nbsp;</p>
+<p style="margin-left:275px"><font color=#ffffff size=2> © Northeastern University Swim Club 2014-2015, all rights reserved. | Page designed & maintained by <a href="../../Male%20Athletes/Gell.html">Kevin Gell</a> &amp; <a href="../../Male%20Athletes/Leys.html">Ryan Leys</a></font> </p> 
+
+</body>
+<!-- InstanceEnd --></html>
