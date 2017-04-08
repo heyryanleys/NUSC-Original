@@ -1,6 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<?php require $_SERVER['DOCUMENT_ROOT'] . 'NUSC/Team/roster.php';?>
 	<!-- InstanceBegin template="/Templates/Main Template.dwt" codeOutsideHTMLIsLocked="false" -->
 	<head>
 		<!-- Google Tag Manager -->
@@ -15,7 +14,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<title>NUSC | Home</title>
 		<!-- InstanceEndEditable -->
 		<link rel="stylesheet" href="flexslider.css" type="text/css">
-		<link rel="stylesheet" href="updatebanner.css" type="text/css">
 		<style type="text/css">
 		#div1 {
 			background-color: #000000;
@@ -294,11 +292,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="UpdateBanner" class="UpdateBanner">
   This site is no longer updated and is for porfolio use only.  Please <a href="https://www.northeastern.edu/clubswimming/">click here</a> to go to the active NUSC Website (Not made by <a href="http://www.ryanleys.com">Ryan Leys</a>).
 </div>
+<div id="UpdateBanner" class="UpdateBanner">
+  This site is no longer updated and is for porfolio use only.  Please <a href="https://www.northeastern.edu/clubswimming/">click here</a> to go to the active NUSC Website (Not made by <a href="http://www.ryanleys.com">Ryan Leys</a>).
+</div>
 		<body background="Core%20Images/Underwater%20Background_test_2.jpg" onload="MM_preloadImages('Core%20Images/Go%20NU%20Logo.png','Core%20Images/Campus%20Rec%20Logo.png','Core%20Images/ECCColor.png')">
 			<!-- Google Tag Manager (noscript) -->
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-575FGMM"
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<!-- End Google Tag Manager (noscript) -->
+			<?php include("includes/header.html"); ?>
 			<div id="MenuDiv1">
 
 				<img src="Core%20Images/banner2.png" width="900" height="175" usemap="#Map" border="0" />

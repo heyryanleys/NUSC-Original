@@ -1,0 +1,12 @@
+#UpdateBanner {
+  background-color: red;
+}
+.UpdateBanner{
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+#UpdateBanner a:link { color: #FFFFFF; }
+#UpdateBanner a:visited { color: #FFFFFF; }
+#UpdateBanner a:hover { color: #FFFFFF; }
+#UpdateBanner a:active { color: #FFFFFF; }
